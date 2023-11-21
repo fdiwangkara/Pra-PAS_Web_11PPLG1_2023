@@ -33,6 +33,6 @@
         </div>
     </div>
     <div class="d-grid gap-2 col-6 mx-auto">
-        <a href="/tracks/all" class="btn btn-secondary" type="button">Back</a>
+        <a href="/team/all" class="btn btn-secondary" type="button">Back</a>
     </div>
 @endsection
